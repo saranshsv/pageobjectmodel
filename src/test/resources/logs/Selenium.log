@@ -1,0 +1,14 @@
+09:03:41,252 DEBUG devpinoyLogger:62 - Config file loaded !!!
+09:03:41,261 DEBUG devpinoyLogger:76 - OR file loaded !!!
+09:03:48,882 DEBUG devpinoyLogger:106 - Firefox Launched !!!
+09:03:52,575 DEBUG devpinoyLogger:115 - Navigated to : https://www.zoho.com/
+09:03:54,950 DEBUG devpinoyLogger:136 - Clicking on an Element : loginLink_XPATH
+09:03:55,047 DEBUG devpinoyLogger:141 - Typing in : email_XPATH entered value as saranshsv@gmail.com
+09:03:55,392 DEBUG devpinoyLogger:147 - Clicking on an Element : loginUserBTN_XPATH
+09:03:55,471 DEBUG devpinoyLogger:153 - Typing in : password_XPATH entered value as CeLciusZOHO93
+09:03:56,203 DEBUG devpinoyLogger:136 - Clicking on an Element : loginUserBTN_XPATH
+09:03:56,261 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+09:03:56,264 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+09:03:56,266 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+09:03:56,268 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+09:03:56,268 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/saran/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"

@@ -1,0 +1,9 @@
+02/06/2020 09:03:41 devpinoyLogger Config file loaded !!!
+02/06/2020 09:03:41 devpinoyLogger OR file loaded !!!
+02/06/2020 09:03:48 devpinoyLogger Firefox Launched !!!
+02/06/2020 09:03:52 devpinoyLogger Navigated to : https://www.zoho.com/
+02/06/2020 09:03:54 devpinoyLogger Clicking on an Element : loginLink_XPATH
+02/06/2020 09:03:55 devpinoyLogger Typing in : email_XPATH entered value as saranshsv@gmail.com
+02/06/2020 09:03:55 devpinoyLogger Clicking on an Element : loginUserBTN_XPATH
+02/06/2020 09:03:55 devpinoyLogger Typing in : password_XPATH entered value as CeLciusZOHO93
+02/06/2020 09:03:56 devpinoyLogger Clicking on an Element : loginUserBTN_XPATH
